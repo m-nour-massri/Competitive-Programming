@@ -1,5 +1,6 @@
 
 /*
+https://tlx.toki.id/problems/osn-2016-1/B/
 subtasks: 1 - 6 , 59 points
 
 devide the array into four equal parts of size n/4
